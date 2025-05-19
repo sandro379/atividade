@@ -1,0 +1,38 @@
+.grande {
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    color: aqua;
+    font-weight: bold;
+    background-color: purple;
+}
+
+.médio {
+    text-align: center;
+    font-size: medium;
+    font-weight: bolder;
+    border: solid;
+}
+
+.botao {
+    background-color: aqua;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.titulo {
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    background-color: rgb(56, 0, 53);
+}
+.imagen {
+    justify-content: center
+}
+
+body {
+    background-color: rgb(206, 203, 203);
+}

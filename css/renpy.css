@@ -1,0 +1,23 @@
+.grande {
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    color: aqua;
+    font-weight: bold;
+    background-color: purple;
+}
+
+.médio {
+    text-align: center;
+    font-size: medium;
+    font-weight: bolder;
+    border: solid;
+}
+
+.botao {
+    background-color: aqua;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+
+}
